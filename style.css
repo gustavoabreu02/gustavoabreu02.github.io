@@ -1,0 +1,106 @@
+.fonteDiferente {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 500;
+  }
+  
+  body {
+      background-color: white;
+  }
+  .redeSocial {
+      font-size: 25px;
+  }
+  .nacionalidade {
+      font-style:italic;
+      line-height:50px;
+      text-align:left;
+  }
+  .scroll {
+      font-size: 25px;
+  }
+  ul {
+      font-size: 20px;
+      font-weight: 400;
+  }
+  .button {
+      background-color: #372926;
+      color: #d7ccca;
+      font-weight: 600;
+      text-decoration: none;
+      padding: 5px;
+      font-size: 25px;
+      line-height: 38px;
+      text-align:right;
+      position: absolute;
+      border-style: solid;
+      border-color:#cd9a7f;
+      border-width: 5px;
+      text-transform: uppercase;
+  }
+  .foto {
+  left: 820px;
+  position: absolute;
+  top: 30px;
+  border-radius: 100%;
+  width: 200px;
+  }
+  div {
+    text-align: center;
+  }
+  div h2 {
+    position: absolute;
+    top: 370px;
+    left: 760px;
+  }
+  .b1 {
+    position: absolute;
+    left: 670px;
+    top: 680px;
+  }
+  .b2 {
+    top: 780px;
+    left:770px ;
+  }
+  .b3 {
+    left: 815px;
+    position: absolute;
+  }
+a img {
+  width: 100px;
+  border-radius: 35%;
+}
+.i1 {
+  position: absolute;
+  width: 100px;
+  border-radius: 35%;
+  top: 500px;
+  left: 680px;
+}
+.i2 {
+  position: absolute;
+  width: 100px;
+  border-radius: 35%;
+  top: 500px;
+  left: 1070px;
+}
+.i3 {
+  position: absolute;
+  width: 100px;
+  border-radius: 35%;
+  top: 500px;
+  left: 880px;
+}
+ul, li, h2 {
+  text-align: center;
+  list-style: none;
+}
+h2 {
+  text-transform: uppercase;
+}
+h2 a {
+  color:#372926;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p a {
+  color: mediumseagreen;
+}
+  
